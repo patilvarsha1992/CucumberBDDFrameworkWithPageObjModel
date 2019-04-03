@@ -1,0 +1,82 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 2,
+        "name": "QTP Selenium Login Scenario",
+        "description": "",
+        "id": "qtp-selenium-login-feature;qtp-selenium-login-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 4272790257,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "User launching the a browser",
+            "match": {
+              "location": "LoginStepDefination.user_launching_the_a_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 11559024,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User is on Login page",
+            "match": {
+              "location": "LoginStepDefination.user_is_on_Login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2140127703,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User logged in",
+            "match": {
+              "location": "LoginStepDefination.user_logged_in()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 22904120,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User is on HomePage",
+            "match": {
+              "location": "LoginStepDefination.user_is_on_HomePage()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 131651970,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Close browser",
+            "match": {
+              "location": "LoginStepDefination.close_browser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "QTP Selenium Login Feature",
+    "description": "",
+    "id": "qtp-selenium-login-feature",
+    "keyword": "Feature",
+    "uri": "/Users/jaideo/Documents/varsha-workspace/LeadFerretCucumberBDDFrameWorkWithPageObjModel/src/main/java/com/qa/Feature/Login.feature"
+  }
+]

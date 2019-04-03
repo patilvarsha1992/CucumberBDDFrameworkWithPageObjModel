@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="6.579033">
+<testcase classname="QTP Selenium Login Feature" name="QTP Selenium Login Scenario" time="6.579033">
+<system-out><![CDATA[Given User launching the a browser..........................................passed
+Given User is on Login page.................................................passed
+Then User logged in.........................................................passed
+Then User is on HomePage....................................................passed
+Then Close browser..........................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
